@@ -1,0 +1,12 @@
+.unq,
+.only{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.unq{
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+.only{
+    background-color: hsl(60, 100%, 50%);
+}
